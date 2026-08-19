@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Muhammad Hassaan 👋
 
 - 🎓 **Status:** Incoming university student preparing for day one!
