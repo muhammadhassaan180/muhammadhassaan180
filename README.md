@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Hassaan 👋
 
-- 🎓 **Status:** Incoming university student preparing for day one!
+- 🎓 **Status:** Software Engineering student @ SSUET
 - 🎯 **Current Focus:** Building foundational coding skills and learning Git/GitHub workflow.
 - 🚀 **Goals:** Working toward my first university projects.
 
