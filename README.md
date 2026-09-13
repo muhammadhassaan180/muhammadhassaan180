@@ -10,7 +10,7 @@
 
 - **Instagram:** [@muhammadhassaan180](https://instagram.com/muhammad_hassaan180)
 - **Email:** [hassaanmuhammad401@gmail.com](mailto:hassaanmuhammad401@gmail.com)
-- **X:** [@hassaan1008](https://x.com/hassaan1008)
+- **X:** [@hassaan1008]
 <!--
 **muhammadhassaan180/muhammadhassaan180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
