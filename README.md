@@ -9,7 +9,7 @@
 ### 🌐 Connect with me
 
 - **Instagram:** [@muhammadhassaan180](https://instagram.com/muhammad_hassaan180)
-- **Email:** [muhammadhassaan1008@gmail.com](mailto:muhammadhassaan1008@gmail.com)
+- **Email:** [hassaanmuhammad401@gmail.com](mailto:hassaanmuhammad401@gmail.com)
 
 <!--
 **muhammadhassaan180/muhammadhassaan180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
