@@ -1,6 +1,7 @@
 # Hi there, I'm Muhammad Hassaan 👋
 
 - 🎓 **Status:** Software Engineering student @ SSUET
+- 🐍 **Currently Learning:** Python via freeCodeCamp
 - 🎯 **Current Focus:** Building foundational coding skills and learning Git/GitHub workflow.
 - 🚀 **Goals:** Working toward my first university projects.
 
