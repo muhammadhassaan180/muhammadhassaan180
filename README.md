@@ -8,6 +8,7 @@ I'm building a foundation in Python, Git, and problem solving through university
 
 - Strengthening Python fundamentals through Programming Fundamentals and Exercism
 - Member of [GDG on Campus SSUET](https://gdg.community.dev/gdg-on-campus-sir-syed-university-of-engineering-technology-karachi-pakistan/) and the AWS Student Builder Group at SSUET
+- Learning AWS fundamentals through small projects with boto3 and S3
 - Learning to write cleaner code and document what I build
 
 ## Featured projects
@@ -17,6 +18,7 @@ I'm building a foundation in Python, Git, and problem solving through university
 | [Calculator](https://github.com/muhammadhassaan180/Calculator) | CLI calculator with seven arithmetic operations, built for Programming Fundamentals | Python |
 | [Budget App](https://github.com/muhammadhassaan180/budget-app) | Budget tracker with categories, transfers, and a text-based spend chart; freeCodeCamp certification project | Python, OOP |
 | [User Configuration Manager](https://github.com/muhammadhassaan180/user-configuration-manager) | Settings manager with add, update, delete, and view operations; freeCodeCamp certification project | Python, dictionaries |
+| [AWS S3 File Manager](https://github.com/muhammadhassaan180/aws-s3-practice) | CLI for listing, uploading, downloading, and deleting files in an S3 bucket | Python, boto3, AWS |
 
 ## Practice
 
