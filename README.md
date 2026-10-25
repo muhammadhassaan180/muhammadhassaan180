@@ -6,7 +6,7 @@ I'm building a foundation in Python, Git, and problem solving through university
 
 ## Currently
 
-- Strengthening Python fundamentals through Programming Fundamentals and Exercism
+- Strengthening Python fundamentals through Programming Fundamentals, Exercism and freeCodeCamp
 - Member of [GDG on Campus SSUET](https://gdg.community.dev/gdg-on-campus-sir-syed-university-of-engineering-technology-karachi-pakistan/) and the AWS Student Builder Group at SSUET
 - Learning AWS fundamentals through small projects with boto3 and S3
 - Learning to write cleaner code and document what I build
