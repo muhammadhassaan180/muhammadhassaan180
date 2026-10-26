@@ -15,8 +15,8 @@ I'm building a foundation in Python, Git, and problem solving through university
 
 | Project | What it does | Stack |
 |---|---|---|
-| [AWS S3 File Manager](https://github.com/muhammadhassaan180/aws-s3-practice) | CLI for listing, uploading, downloading, and deleting files in an S3 bucket | Python, boto3, AWS |
 | [Budget App](https://github.com/muhammadhassaan180/budget-app) | Budget tracker with categories, transfers, and a text-based spend chart; freeCodeCamp certification project | Python, OOP |
+| [AWS S3 File Manager](https://github.com/muhammadhassaan180/aws-s3-practice) | CLI for listing, uploading, downloading, and deleting files in an S3 bucket | Python, boto3, AWS |
 | [User Configuration Manager](https://github.com/muhammadhassaan180/user-configuration-manager) | Settings manager with add, update, delete, and view operations; freeCodeCamp certification project | Python, dictionaries |
 | [Calculator](https://github.com/muhammadhassaan180/calculator) | Interactive CLI calculator with seven operations, input validation, and error handling | Python |
 
