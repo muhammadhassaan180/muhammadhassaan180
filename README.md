@@ -1,10 +1,10 @@
-# Hi👋, I'm Muhammad Hassaan
+## Hi👋, I'm Muhammad Hassaan
 
 Software Engineering student at **Sir Syed University of Engineering & Technology (SSUET)**, Karachi.
 
-I'm building a foundation in Python and Git, and I like turning what I learn into small projects. My main interests are **AI/ML** and **full-stack development**, with cloud as a supporting skill rather than the main focus.
+I'm building a foundation in Python and Git, and I like turning what I learn into small projects. My main interests are **AI/ML** and **software development**, with cloud as a supporting skill rather than the main focus.
 
-## What I'm exploring
+### What I'm exploring
 
 | Area | Where I am |
 |---|---|
@@ -15,7 +15,7 @@ I'm building a foundation in Python and Git, and I like turning what I learn int
 
 Member of [GDG on Campus SSUET](https://gdg.community.dev/gdg-on-campus-sir-syed-university-of-engineering-technology-karachi-pakistan/) and the AWS Student Builder Group at SSUET.
 
-## Featured projects
+### Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -24,12 +24,12 @@ Member of [GDG on Campus SSUET](https://gdg.community.dev/gdg-on-campus-sir-syed
 | [User Configuration Manager](https://github.com/muhammadhassaan180/user-configuration-manager) | Settings manager with add, update, delete, and view operations; freeCodeCamp certification project | Python, dictionaries |
 | [Calculator](https://github.com/muhammadhassaan180/calculator) | Interactive CLI calculator with seven operations, input validation, and error handling | Python |
 
-## Practice
+### Practice
 
 - [python-practice](https://github.com/muhammadhassaan180/python-practice) — freeCodeCamp Python exercises and notes
 - [exercism](https://github.com/muhammadhassaan180/exercism) — Exercism Python solutions
 
-## Connect
+### Connect
 
 - Email: [hassaanmuhammad401@gmail.com](mailto:hassaanmuhammad401@gmail.com)
 - X: [@hassaan123000](https://x.com/hassaan123000)
