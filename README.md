@@ -2,14 +2,18 @@
 
 Software Engineering student at **Sir Syed University of Engineering & Technology (SSUET)**, Karachi.
 
-I'm building a foundation in Python, Git, and problem solving through university coursework and small projects. Interested in data analysis and cloud fundamentals.
+I'm building a foundation in Python and Git, and I like turning what I learn into small projects. My main interests are **AI/ML** and **full-stack development**, with cloud as a supporting skill rather than the main focus.
 
-## Currently
+## What I'm exploring
 
-- Strengthening Python fundamentals through Programming Fundamentals, Exercism and freeCodeCamp
-- Member of [GDG on Campus SSUET](https://gdg.community.dev/gdg-on-campus-sir-syed-university-of-engineering-technology-karachi-pakistan/) and the AWS Student Builder Group at SSUET
-- Learning AWS fundamentals through small projects with boto3 and S3
-- Learning to write cleaner code and document what I build
+| Area | Where I am |
+|---|---|
+| Python & OOP | Building through coursework and small projects |
+| AI/ML | Learning the fundamentals |
+| Full-stack | Learning web fundamentals |
+| Cloud (AWS) | Basics through S3 and boto3 |
+
+Member of [GDG on Campus SSUET](https://gdg.community.dev/gdg-on-campus-sir-syed-university-of-engineering-technology-karachi-pakistan/) and the AWS Student Builder Group at SSUET.
 
 ## Featured projects
 
