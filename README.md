@@ -19,12 +19,10 @@ Member of [GDG on Campus SSUET](https://gdg.community.dev/gdg-on-campus-sir-syed
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Budget App](https://github.com/muhammadhassaan180/budget-app) | freeCodeCamp Python certification project — budget tracker with categories, transfers, and a text-based spend chart | Python, OOP |
-| [AWS S3 File Manager](https://github.com/muhammadhassaan180/aws-s3-practice) | Personal AWS project — Python CLI for managing S3 files plus a static site hosted on S3 | Python, boto3, AWS, HTML/CSS |
-| [User Configuration Manager](https://github.com/muhammadhassaan180/user-configuration-manager) | freeCodeCamp Python certification project — settings manager with add, update, delete, and view operations | Python, dictionaries |
-| [Calculator](https://github.com/muhammadhassaan180/calculator) | SSUET Programming Fundamentals project — interactive CLI calculator with seven operations, input validation, and error handling | Python |
-
-Only the calculator is SSUET coursework. The Budget App and User Configuration Manager are freeCodeCamp certification projects, and the AWS S3 project is personal.
+| [Budget App](https://github.com/muhammadhassaan180/budget-app) | Budget tracker with categories, transfers, and a text-based spend chart; freeCodeCamp certification project | Python, OOP |
+| [AWS S3 File Manager](https://github.com/muhammadhassaan180/aws-s3-practice) | Python CLI for managing S3 files plus a static site hosted on S3 | Python, boto3, AWS, HTML/CSS |
+| [User Configuration Manager](https://github.com/muhammadhassaan180/user-configuration-manager) | Settings manager with add, update, delete, and view operations; freeCodeCamp certification project | Python, dictionaries |
+| [Calculator](https://github.com/muhammadhassaan180/calculator) | Interactive CLI calculator with seven operations, input validation, and error handling | Python |
 
 ### Practice
 
