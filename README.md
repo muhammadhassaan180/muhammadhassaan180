@@ -20,7 +20,7 @@ Member of [GDG on Campus SSUET](https://gdg.community.dev/gdg-on-campus-sir-syed
 | Project | What it does | Stack |
 |---|---|---|
 | [Budget App](https://github.com/muhammadhassaan180/budget-app) | Budget tracker with categories, transfers, and a text-based spend chart; freeCodeCamp certification project | Python, OOP |
-| [AWS S3 File Manager](https://github.com/muhammadhassaan180/aws-s3-practice) | CLI for listing, uploading, downloading, and deleting files in an S3 bucket | Python, boto3, AWS |
+| [AWS S3 File Manager](https://github.com/muhammadhassaan180/aws-s3-practice) | Python CLI for managing S3 files plus a static site hosted on S3 | Python, boto3, AWS, HTML/CSS |
 | [User Configuration Manager](https://github.com/muhammadhassaan180/user-configuration-manager) | Settings manager with add, update, delete, and view operations; freeCodeCamp certification project | Python, dictionaries |
 | [Calculator](https://github.com/muhammadhassaan180/calculator) | Interactive CLI calculator with seven operations, input validation, and error handling | Python |
 
@@ -31,5 +31,6 @@ Member of [GDG on Campus SSUET](https://gdg.community.dev/gdg-on-campus-sir-syed
 
 ### Connect
 
+- Website: [hassaan-static-site-2026](http://hassaan-static-site-2026.s3-website-ap-southeast-2.amazonaws.com)
 - Email: [hassaanmuhammad401@gmail.com](mailto:hassaanmuhammad401@gmail.com)
 - X: [@hassaan123000](https://x.com/hassaan123000)
