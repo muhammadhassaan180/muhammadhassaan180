@@ -2,7 +2,7 @@
 
 Software Engineering student at **Sir Syed University of Engineering & Technology (SSUET)**, Karachi.
 
-I'm building a foundation in Python and Git, and I like turning what I learn into small projects. My main interests are **AI/ML** and **software development**, with cloud as a supporting skill rather than the main focus.
+I'm building a foundation in Python and Git, and I like turning what I learn into small projects.
 
 ### What I'm exploring
 
